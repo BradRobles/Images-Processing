@@ -1,4 +1,4 @@
-# Procesamiento de Imágenes - Análisis de Rendimiento (Unidad 2)
+# Procesamiento de Imágenes - Análisis de Rendimiento
 
 Este repositorio contiene la implementación y el análisis de rendimiento de tres filtros comunes de procesamiento de imágenes: Filtro Gaussiano, Filtro Sobel y Filtro Mediano. El objetivo principal es evaluar cómo diferentes enfoques computacionales afectan el tiempo de ejecución.
 
